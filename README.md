@@ -1,4 +1,4 @@
-# Mac Utils
+# Scala Mac OS X Utilities
 
 This is a small collection of Java/Scala Mac OS X utilities.
 
