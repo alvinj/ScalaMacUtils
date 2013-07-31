@@ -8,6 +8,6 @@ Scala without adding tests yet. I'll add tests when I get some more free
 time, but honestly, this isn't a high priority at the moment; I'm just
 trying to organize a few things.
 
-Alvin Alexander
+Alvin Alexander  
 http://alvinalexander.com
 
